@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1587162755 source:c:\users\gonzalo\desktop\actualizacion tp 1\tp_lab_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+	"menu.h"
+	<windows.h>
+
+1587162744 c:\users\gonzalo\desktop\actualizacion tp 1\tp_lab_1\operaciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1587162744 c:\users\gonzalo\desktop\actualizacion tp 1\tp_lab_1\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
