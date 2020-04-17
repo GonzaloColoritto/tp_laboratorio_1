@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1587094794 source:c:\users\gonzalo\desktop\tp laboratorio 1 2.0\tp laboratorio 1 final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cuentas.h"
+	"menu.h"
+	<windows.h>
+
+1587096300 c:\users\gonzalo\desktop\tp laboratorio 1 2.0\tp laboratorio 1 final\cuentas.h
+	<stdio.h>
+	<stdlib.h>
+
+1587091814 c:\users\gonzalo\desktop\tp laboratorio 1 2.0\tp laboratorio 1 final\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
