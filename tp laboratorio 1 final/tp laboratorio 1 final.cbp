@@ -32,11 +32,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="cuentas.h" />
-		<Unit filename="main.c">
+		<Unit filename="../../../tp laboratorio 1 2.0/tp laboratorio 1 final/cuentas.h" />
+		<Unit filename="../../../tp laboratorio 1 2.0/tp laboratorio 1 final/main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="menu.h" />
+		<Unit filename="../../../tp laboratorio 1 2.0/tp laboratorio 1 final/menu.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
