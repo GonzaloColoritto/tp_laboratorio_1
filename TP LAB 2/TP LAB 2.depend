@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1589587069 source:c:\users\gonzalo\desktop\tp lab 2 2.0\tp lab 2\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"empleados.h"
+
+1589586907 c:\users\gonzalo\desktop\tp lab 2 2.0\tp lab 2\empleados.h
+	<stdio.h>
+	<stdlib.h>
+
+1589586932 source:c:\users\gonzalo\desktop\tp lab 2 2.0\tp lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"empleados.h"
+
